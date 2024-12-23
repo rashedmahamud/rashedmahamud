@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rashedmahamud
-- 👀 I’m interested in ... backend, ML, Image Processing, system Design, Large scale app design, SaaS
+- 👀 I’m interested in ... backend, ML, Image Processing, scalable application desing, Performance Improvement...
 - 🌱 I’m currently focusing on ... Microservice Base Web App...
-- 💞️ I’m looking to collaborate on ... ML
+
 - 📫 How to reach me ...
 
 <!---
